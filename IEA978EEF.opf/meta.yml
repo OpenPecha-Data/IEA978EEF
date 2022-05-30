@@ -1,0 +1,25 @@
+id: IEA978EEF
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-30T18:34:26.900936'
+last_modified: '2022-05-30T18:34:26.900941'
+parser: null
+source_metadata:
+  title: Chöying Tobden Dorje
+  language: bo
+  description: 'Texts by and about Chöying Tobden Dorje (chos dbyings stobs ldan rdo
+    rje, 1785–1848):'
+  volume:
+    fFB6C:
+      title: A Concise Supplication to the Most Noble Tārā
+      base_file: fFB6C.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
